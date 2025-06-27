@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+👏;+मैं+बी+पी+आर्यान+!;+Bonjour+à+tous+👋;+Je+suis+B+P+ARYAAN+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+👏;+ମୁଁ+ବି+ପି+ଆର୍ୟାନ୍+!;" />
 </h1>
 
-<h3 align="center">A passionate AI developer from **INDIA** 🇮🇳 </h3>
+<h3 align="center">A passionate AI developer from INDIA 🇮🇳 </h3>
 
 <br/>
 
