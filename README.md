@@ -1,19 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryaan-Dev.Aryaan-Dev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+👏;+मैं+बी+पी+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+👏;+ମୁଁ+ବି+ପି+ଆର୍ୟାନ୍+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+🙏;+मैं+बी+पी+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+🙏;+ମୁଁ+ବି+ପି+ଆର୍ୟାନ୍+!;" />
 </h1>
 
-<h3 align="center">A passionate AI developer from INDIA 🇮🇳 </h3>
+<h3 align="center">A passionate AI 🤖 developer from INDIA 🇮🇳 </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **ED-TECH PROJECTS**
+🎯 I’m currently working on **ED-TECH PROJECTS**
 
 
-💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Aryaan-Dev/Aryaan-Dev/issues)**
+💬 Ask me about **Python, React, Node.js... or anything by [clicking here](https://github.com/Aryaan-Dev/Aryaan-Dev/issues)**
 
 ⚡ Fun fact : **You Can Turn Your Commit History Into A 3D Skyline Game if you [click me](https://github.com/github/gh-skyline)**
 
