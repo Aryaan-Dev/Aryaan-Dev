@@ -1,10 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryaan-Dev.Aryaan-Dev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Holla+Amigo!+👋;+सभी+को+नमस्कार;+I'm+B+P+Aryaan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000
+        &lines=Hello+Everyone+!+👋;+I'm+B+P+Aryaan;+सभी+को+नमस्कार+!;+मैं+बी+पी+आर्यान;+Bonjour+à+tous+!;+Je+suis+B+P+ARYAAN;Ciao+a+tutti+!;+Sono+B+P+ARYAAN;ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+!;+ମୁଁ+B+P+ARYAAN;" />
 </h1>
 
-<h3 align="center">A passionate AI developer from INDIA </h3>
+<h3 align="center">A passionate AI developer from INDIA 🇮🇳 </h3>
 
 <br/>
 
