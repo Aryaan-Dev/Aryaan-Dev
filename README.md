@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryaan-Dev.Aryaan-Dev" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+🙏;+मैं+बी+पी+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+🙏;+ମୁଁ+ବି+ପି+ଆର୍ୟାନ୍+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+🙏;+मैं+बी+पी+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+🙏;+ମୁଁ+ବି+ପି+ଆର୍ୟାନ୍+!;" />
 </h1>
 
 <h3 align="center">A passionate AI 🤖 developer from INDIA 🇮🇳 </h3>
@@ -51,6 +51,6 @@
   <br/><br/><br/>
 </div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+😁👍;Shoot+Me+A+Message+On+Linkedin+!;" />
-</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+For+Visiting+😁👍;Shoot+Me+A+Message;+On+Linkedin+!;" />
+</h1>
