@@ -15,7 +15,7 @@
 
 💬 Ask me about **Node.js, React, Python... or anything [here](https://github.com/Aryaan-Dev/Aryaan-Dev/issues)**
 
-⚡ Fun fact : **You Can Turn Your Commit History Into A 3D Skyline Game if you [click me](https://skyline.github.com)**
+⚡ Fun fact : **You Can Turn Your Commit History Into A 3D Skyline Game if you [click me](https://github.com/github/gh-skyline)**
 
  </div>
  
