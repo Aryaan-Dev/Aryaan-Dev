@@ -1,4 +1,4 @@
-<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Aryaan-Dev.Aryaan-Dev" /></p>
+<p align="right"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aryaan-Dev/Aryaan-Dev&count_bg=%2379C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false" /></p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+🙏;+मैं+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+🙏;+ମୁଁ+ଆର୍ୟାନ୍+!;" />
