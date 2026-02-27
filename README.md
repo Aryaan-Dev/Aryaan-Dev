@@ -3,7 +3,9 @@
 </h1>
 
 <h3 align="center">🤖 AI Developer | India 🇮🇳 </h3>
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=/Aryaan-Dev&count_bg=%2379C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://github.com/Aryaan-Dev)
+<br/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aryaan-Dev.Aryaan-Dev" />
 
 <br/>
 
