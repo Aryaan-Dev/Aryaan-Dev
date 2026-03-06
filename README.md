@@ -22,6 +22,8 @@
 
 ⚡ Fun fact : **You Can Turn Your Commit History Into A 3D Skyline Game if you [click me](https://github.com/github/gh-skyline)**
 
+-> **[click here](https://omg10.com/4/10689106) if you 💝 my work !**
+
  </div>
  
 <div align="center"> 
