@@ -2,7 +2,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+B+P+ARYAAN+!;+सभी+को+नमस्कार+🙏;+मैं+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+🙏;+ମୁଁ+ଆର୍ୟାନ୍+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone+👋;+I'm+ARYAAN+!;+सभी+को+नमस्कार+🙏;+मैं+आर्यान+!;+ନମସ୍କାର+ସମସ୍ତଙ୍କୁ+🙏;+ମୁଁ+ଆର୍ୟାନ୍+!;" />
 </h1>
 
 <h3 align="center">🤖 AI Developer | India 🇮🇳 </h3>
